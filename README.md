@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BellaBoga
-- 👀 I’m interested in Machine Learning, Deep Learning in general and overly passionate about Data Science.
+- 👀 I’m interested in Machine Learning/Deep Learning and generally passionate about Data Science.
 - 🌱 I’m currently deepening my knowledge in ML/DL
 - 📫 How to reach me: Email
 
